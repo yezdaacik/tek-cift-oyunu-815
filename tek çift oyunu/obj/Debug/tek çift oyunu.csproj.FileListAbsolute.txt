@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\bin\Debug\tek çift oyunu.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\bin\Debug\tek çift oyunu.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\bin\Debug\tek çift oyunu.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\obj\Debug\tek çift oyunu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\obj\Debug\tek çift oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\obj\Debug\tek_çift_oyunu.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\obj\Debug\tek_çift_oyunu.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\obj\Debug\tek çift oyunu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\obj\Debug\tek çift oyunu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\obj\Debug\tek çift oyunu.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\tek çift oyunu\tek çift oyunu\obj\Debug\tek çift oyunu.pdb
